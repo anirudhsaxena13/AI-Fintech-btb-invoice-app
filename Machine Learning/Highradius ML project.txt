@@ -1,0 +1,2 @@
+Explain every aspect of model in notebook.
+Use markdowns for graphs, and comments in single line codes
